@@ -13142,7 +13142,7 @@
             </figure>
           </div>
         </section>
-        <section data-section-name="sony" class="home-areas__itm home-areas__itm_sony">
+        <section data-section-name="sony" class="home-areas__itm home-areas__itm_sony" onmouseover="begin()">
           <div class="home-areas__overlay">
           </div>
           <div class="home-areas__itm-sony-layout layout">
@@ -13165,9 +13165,14 @@
             </article>
             <figure class="home-areas__device_sony">
               <div class="home-areas__device_sony-screen">
-                  <video autoplay loop muted name="media">
+                  <video preload="none" loop muted name="media" id="home-areas__device_sony-screen">
                       <source src="assets/other/video.MP4" type="video/MP4">
                   </video>
+                  <script type="text/javascript">
+                    function begin(){
+                      document.getElementById("home-areas__device_sony-screen").play();
+                    }
+                  </script>
               </div>
             </figure>
           </div>
