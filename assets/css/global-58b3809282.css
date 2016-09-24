@@ -4349,8 +4349,8 @@ img {
     }
 }
 
- .home-works__android-video {
-    background: url("../img/traffic.gif") no-repeat; 
+.home-works__android-video {
+    background-image: url("../img/traffic.gif") no-repeat; 
     background-size: 683px 418px
 } 
 
