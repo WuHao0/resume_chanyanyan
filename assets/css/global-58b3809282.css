@@ -4280,13 +4280,11 @@ img {
 }
 
 .home-works__iphone-video_1 {
-    background: url("../img/yanan.gif") no-repeat;
     background-size: 720px 411px
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (min-resolution: 144dpi), screen and (-webkit-min-device-pixel-ratio: 144), screen and (min-resolution: 144dppx) {
     .home-works__iphone-video_1 {
-        background: url("../img/yanan.gif") no-repeat;
         background-size: 720px 411px
     }
 }
@@ -4298,13 +4296,11 @@ img {
 }*/
 
 .home-works__iphone-video_3 {
-    background: url("../img/checkpoint.gif") no-repeat;
     background-size: 720px 411px
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (min-resolution: 144dpi), screen and (-webkit-min-device-pixel-ratio: 144), screen and (min-resolution: 144dppx) {
     .home-works__iphone-video_3 {
-        background: url("../img/checkpoint.gif") no-repeat;
         background-size: 720px 411px
     }
 }
@@ -4350,13 +4346,11 @@ img {
 }
 
 .home-works__android-video {
-    background: url("../img/traffic.gif") no-repeat;
     background-size: 683px 418px
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (min-resolution: 144dpi), screen and (-webkit-min-device-pixel-ratio: 144), screen and (min-resolution: 144dppx) {
     .home-works__android-video {
-        background: url("../img/traffic.gif") no-repeat;
         background-size: 683px 418px
     }
 }
@@ -4380,14 +4374,13 @@ img {
 }
 
 .home-news__img-bg {
-    background: url("../img/readbook.png") 50% 50% no-repeat;
+    background: 50% 50% no-repeat;
     background-size: cover;
     transition: all 10s
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (min-resolution: 144dpi), screen and (-webkit-min-device-pixel-ratio: 144), screen and (min-resolution: 144dppx) {
     .home-news__img-bg {
-        background-image: url("../img/readbook.png")
     }
 }
 
@@ -4398,65 +4391,55 @@ img {
 .home-areas__device_startups {
     width: 1139px;
     height: 713px;
-    background: url("../img/chanyanyan.jpg");
     background-size: 100% 100%
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (min-resolution: 144dpi), screen and (-webkit-min-device-pixel-ratio: 144), screen and (min-resolution: 144dppx) {
     .home-areas__device_startups {
-        background-image: url("../img/chanyanyan.jpg")
     }
 }
 
 .home-areas__device_adp-watch {
     width: 121px;
     height: 231px;
-    background: url("../img/series/iwatch.png") no-repeat;
     background-size: 100% 100%
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (min-resolution: 144dpi), screen and (-webkit-min-device-pixel-ratio: 144), screen and (min-resolution: 144dppx) {
     .home-areas__device_adp-watch {
-        background-image: url("../img/series/iwatch.png")
     }
 }
 
 .home-areas__device_adp-phone {
     width: 166px;
     height: 352px;
-    background: url("../img/series/iphone.png") no-repeat;
     background-size: 100% 100%
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (min-resolution: 144dpi), screen and (-webkit-min-device-pixel-ratio: 144), screen and (min-resolution: 144dppx) {
     .home-areas__device_adp-phone {
-        background-image: url("../img/series/iphone.png")
     }
 }
 
 .home-areas__device_adp-ipad {
     width: 540px;
     height: 396px;
-    background: url("../img/series/ipad.png") no-repeat;
     background-size: 100% 100%
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (min-resolution: 144dpi), screen and (-webkit-min-device-pixel-ratio: 144), screen and (min-resolution: 144dppx) {
     .home-areas__device_adp-ipad {
-        background-image: url("../img/series/ipad.png")
     }
 }
 
 .home-areas__device_adp-macbook {
     width: 1102px;
     height: 566px;
-    background: url("../img/series/mac.png") no-repeat;
     background-size: 100% 100%
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (min-resolution: 144dpi), screen and (-webkit-min-device-pixel-ratio: 144), screen and (min-resolution: 144dppx) {
     .home-areas__device_adp-macbook {
-        background-image: url("../img/series/mac.png")
     }
 }
 
@@ -4699,28 +4682,22 @@ img {
 }
 
 .home-spinrilla__screen_1 {
-    background-image: url("../img/journal/1.png")
 }
 
 .home-spinrilla__screen_2 {
-    background-image: url("../img/journal/2.png")
 }
 
 .home-spinrilla__screen_3 {
-    background-image: url("../img/journal/3.png")
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (min-resolution: 144dpi), screen and (-webkit-min-device-pixel-ratio: 144), screen and (min-resolution: 144dppx) {
     .home-spinrilla__screen_1 {
-        background-image: url("../img/journal/1.png")
     }
 
     .home-spinrilla__screen_2 {
-        background-image: url("../img/journal/2.png")
     }
 
     .home-spinrilla__screen_3 {
-        background-image: url("../img/journal/3.png")
     }
 }
 
@@ -5577,7 +5554,7 @@ img {
 }
 
 .j-dark .home-areas__itm_miranda .miranda-app {
-    background: url("../img/contrast2.png") no-repeat center;
+    background: no-repeat center;
     background-size: auto 110%;
     color: grey
 }
@@ -6445,8 +6422,19 @@ html:not(.mobile) .home-are-used.j-light .j-light__overlay, html:not(.mobile) .h
     background-image: url("../img/work/12.png")
 }
 
-.mobile .open-menu__work-spinrilla .open-menu__work-cover {
+.j-menu-trigger-show {
     background-image: url("../img/work/7.2.gif")
+}
+.open-menu__work-yota .open-menu__work-cover {
+    background-image: url("../img/work/1.jpg")
+}
+
+.open-menu__work-fs .open-menu__work-cover {
+    background-image: url("../img/work/2.1.gif")
+}
+
+.open-menu__work-sony .open-menu__work-cover {
+    background-image: url("../img/work/2.2.jpg")
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (min-resolution: 144dpi), screen and (-webkit-min-device-pixel-ratio: 144), screen and (min-resolution: 144dppx) {
