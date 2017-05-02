@@ -569,7 +569,7 @@ img{border:none}
 @media only screen and (min-width:600px) and (max-width:767px)and (max-device-width:768px){.home-areas__itm_adp{margin-bottom:0;padding-top:343px;padding-bottom:0}
 .home-areas__device_adp{left:50%;top:0;bottom:auto;margin-left:-279px}
 }
-.miranda-app{background:url("../img/bubbles1.png") no-repeat center;background-size:auto 110%;color:#333}
+.miranda-app{background:url("../img/bubbles1.png") no-repeat center;background-size:auto 100%;color:#333}
 .miranda-app_dark{background:#1a1a1a}
 .miranda-app__statusbar{position:absolute;left:0;top:0;height:19px;width:344px}
 .miranda-app__statusbar-img{width:344px;height:19px;fill:#000}
@@ -861,7 +861,7 @@ img{border:none}
 .home-areas .phone_miranda{background:url("../img/iphone.png") no-repeat;background-size:398px 816px;width:398px;height:816px}
 @media only screen and (-webkit-min-device-pixel-ratio:1.5), screen and (-webkit-min-device-pixel-ratio:1.5), screen and (min-resolution:144dpi), screen and (-webkit-min-device-pixel-ratio:144), screen and (min-resolution:144dppx){.home-areas .phone_miranda{background-image:url("../img/iphone@2x.png")}
 }
-.home-areas .phone_miranda__anim-screen{position:absolute;top:101px;left:27px;width:344px;height:612px}
+.home-areas .phone_miranda__anim-screen{position:absolute;top:90px;left:25px;width:344px;height:612px}
 .home-areas .phone_miranda__screen{display:none;position:absolute;top:144px;left:68px;width:338px;height:600px}
 @media only screen and (max-width:1024px){.home-areas__device_startups{width:836px;height:547px}
 .home-areas__device_adp{width:1024px;height:412px;background:url("../img/series/combine.jpg");background-size:100% 100%}
@@ -970,7 +970,7 @@ to{opacity:0;-webkit-transform:translate3d(0, 20px, 0);transform:translate3d(0, 
 .j-fadeout-trigger.j-visible, .j-fadeout-trigger__multiline.j-visible{-webkit-animation-duration:.7s;animation-duration:.7s;-webkit-animation-fill-mode:both;animation-fill-mode:both}
 .j-fadeout-trigger.j-visible{-webkit-animation-name:fadeInUp;animation-name:fadeInUp}
 .j-fadein-trigger.j-visible{-webkit-animation-name:fadeIn;animation-name:fadeIn;-webkit-animation-fill-mode:both;animation-fill-mode:both;-webkit-animation-duration:.7s;animation-duration:.7s}
-.j-fadeout-trigger__multiline.j-visible{-webkit-animation-name:fadeInUp__multiline;animation-name:fadeInUp__multiline;font-family: STIXGeneralItalic}
+.j-fadeout-trigger__multiline.j-visible{-webkit-animation-name:fadeInUp__multiline;animation-name:fadeInUp__multiline}
 .j-fadeout-trigger__fadeIn.j-visible{-webkit-animation-name:fadeIn;animation-name:fadeIn;-webkit-animation-duration:.7s;animation-duration:.7s;-webkit-animation-fill-mode:both;animation-fill-mode:both}
 .j-fadeout-trigger__fadeIn.j-visible.anim-1{-webkit-animation-delay:.5s;animation-delay:.5s}
 .j-fadeout-trigger__fadeIn.j-visible.anim-2{-webkit-animation-delay:.8s;animation-delay:.8s}
@@ -1080,7 +1080,7 @@ to{opacity:0;-webkit-transform:translate3d(0, 20px, 0);transform:translate3d(0, 
 .j-dark .home-areas__itm_miranda .home-copy__award-branch_l, .j-dark .home-areas__itm_miranda .home-copy__award-branch_r, .j-dark .home-areas__itm_miranda .home-copy__award-ic{fill:#b9b9b9;transition:fill .7s}
 .j-dark .home-areas__itm_miranda .phone_miranda__screen_light{opacity:0}
 .j-dark .home-areas__itm_miranda .phone_miranda__screen_night{opacity:1}
-.j-dark .home-areas__itm_miranda .miranda-app{background:url("../img/bubbles2.png") no-repeat center;background-size:auto 110%;color:grey}
+.j-dark .home-areas__itm_miranda .miranda-app{background:url("../img/bubbles2.png") no-repeat center;background-size:auto 100%;color:grey}
 .j-dark .home-areas__itm_miranda .miranda-app__location-ic{fill:#4c4c4c}
 .j-dark .home-areas__itm_miranda .miranda-app__colon-ic{fill:grey}
 .j-dark .home-areas__itm_miranda .miranda-app__statusbar-img{fill:#fff}
