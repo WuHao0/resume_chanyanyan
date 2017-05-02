@@ -811,8 +811,8 @@ img{border:none}
 @media only screen and (max-width:767px) and (max-device-width:768px){.home-works__iphone{background-image:url("../img/common/device/iphone_1_mob@2x.png");background-size:255px 518px}
 }
 .home-works__iphone-shade{background-size:570px 900px;width:570px;height:900px;position:absolute;left:-50px;top:0;z-index:-1}
-.home-works__iphone-video_1{background:url("../img/yanan.gif") no-repeat;background-size:720px 411px}
-@media only screen and (-webkit-min-device-pixel-ratio:1.5), screen and (-webkit-min-device-pixel-ratio:1.5), screen and (min-resolution:144dpi), screen and (-webkit-min-device-pixel-ratio:144), screen and (min-resolution:144dppx){.home-works__iphone-video_1{background:url("../img/yanan.gif") no-repeat;background-size:720px 411px}
+.home-works__iphone-video_1{background:url("../img/1lmusicr.gif") no-repeat;background-size:720px 411px}
+@media only screen and (-webkit-min-device-pixel-ratio:1.5), screen and (-webkit-min-device-pixel-ratio:1.5), screen and (min-resolution:144dpi), screen and (-webkit-min-device-pixel-ratio:144), screen and (min-resolution:144dppx){.home-works__iphone-video_1{background:url("../img/1lmusicr.gif") no-repeat;background-size:720px 411px}
 }
 .home-works__iphone-video_3{background:url("../img/checkpoint.gif") no-repeat;background-size:720px 411px}
 @media only screen and (-webkit-min-device-pixel-ratio:1.5), screen and (-webkit-min-device-pixel-ratio:1.5), screen and (min-resolution:144dpi), screen and (-webkit-min-device-pixel-ratio:144), screen and (min-resolution:144dppx){.home-works__iphone-video_3{background:url("../img/checkpoint.gif") no-repeat;background-size:720px 411px}
