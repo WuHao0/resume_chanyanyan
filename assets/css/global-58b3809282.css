@@ -61,6 +61,7 @@ body, h1, h2, h3, h4, h5, h6, p{margin:0}
 	src:url("../fonts/agaramondpro_regular.woff") format('woff'),
 		url("../fonts/agaramondpro_italic.woff") format('woff');
 }
+@font-face{font-family:STIXGeneralItalic;src:url("../fonts/STIXGeneralItalic.woff") format('woff')}
 @font-face{font-family:NHaasGroteskDSPro-35Lt;src:url("../fonts/2F2353_0_0.woff") format('woff')}
 @font-face{font-family:NHaasGroteskDSPro-55Rg;src:url("../fonts/2A76C9_2_0.woff") format('woff')}
 @font-face{font-family:NHaasGroteskDSPro-65Md;src:url("../fonts/2A76C9_0_0.woff") format('woff')}
@@ -583,9 +584,9 @@ img{border:none}
 .miranda-app__time sup{display:inline-block;margin-left:8px;vertical-align:top;font-size:18px;line-height:22px;font-family:'Helvetica Neue', NHaasGroteskDSPro-55Rg, Arial, sans-serif;font-weight:400}
 .miranda-app__colon{display:inline-block;vertical-align:top;margin:0 -7px;line-height:42px}
 .miranda-app__colon-ic{width:3px;height:25px;fill:#333}
-.home-quote{position:relative;padding:52px 104px 50px;margin:0 auto;width:auto;max-width:1232px;text-align:center}
+.home-quote{position:relative;padding:52px 104px 50px;margin:0 auto;width:auto;max-width:1232px;text-align:center;font-family:STIXGeneralItalic}
 .home-quote__txt{margin-bottom:27px;font-style:italic;font-size:50px;line-height:68px;font-weight:300}
-.home-quote_invers .home-quote__txt{color:#fff}
+.home-quote_invers .home-quote__txt{color:#fff;font-family:STIXGeneralItalic}
 .home-quote__cite{display:block;color:#999;font-family:NHaasGroteskDSPro-55Rg, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-style:normal;font-size:18px;line-height:30px}
 .home-approach__title, .home-are-used__title{font-family:adobe-garamond-pro, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:400}
 @media only screen and (max-width:1024px){.home-quote{padding:52px 0 48px;margin-left:auto;margin-right:auto;max-width:692px}
@@ -969,7 +970,7 @@ to{opacity:0;-webkit-transform:translate3d(0, 20px, 0);transform:translate3d(0, 
 .j-fadeout-trigger.j-visible, .j-fadeout-trigger__multiline.j-visible{-webkit-animation-duration:.7s;animation-duration:.7s;-webkit-animation-fill-mode:both;animation-fill-mode:both}
 .j-fadeout-trigger.j-visible{-webkit-animation-name:fadeInUp;animation-name:fadeInUp}
 .j-fadein-trigger.j-visible{-webkit-animation-name:fadeIn;animation-name:fadeIn;-webkit-animation-fill-mode:both;animation-fill-mode:both;-webkit-animation-duration:.7s;animation-duration:.7s}
-.j-fadeout-trigger__multiline.j-visible{-webkit-animation-name:fadeInUp__multiline;animation-name:fadeInUp__multiline}
+.j-fadeout-trigger__multiline.j-visible{-webkit-animation-name:fadeInUp__multiline;animation-name:fadeInUp__multiline;font-family: STIXGeneralItalic}
 .j-fadeout-trigger__fadeIn.j-visible{-webkit-animation-name:fadeIn;animation-name:fadeIn;-webkit-animation-duration:.7s;animation-duration:.7s;-webkit-animation-fill-mode:both;animation-fill-mode:both}
 .j-fadeout-trigger__fadeIn.j-visible.anim-1{-webkit-animation-delay:.5s;animation-delay:.5s}
 .j-fadeout-trigger__fadeIn.j-visible.anim-2{-webkit-animation-delay:.8s;animation-delay:.8s}
