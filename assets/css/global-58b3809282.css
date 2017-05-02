@@ -57,6 +57,10 @@
 }
 .section, .with-open-menu .page{position:relative}
 body, h1, h2, h3, h4, h5, h6, p{margin:0}
+@font-face{font-family:adobe-garamond-pro;
+	src:url("../fonts/agaramondpro_regular.woff") format('woff'),
+		url("../fonts/agaramondpro_italic.woff") format('woff');
+}
 @font-face{font-family:NHaasGroteskDSPro-35Lt;src:url("../fonts/2F2353_0_0.woff") format('woff')}
 @font-face{font-family:NHaasGroteskDSPro-55Rg;src:url("../fonts/2A76C9_2_0.woff") format('woff')}
 @font-face{font-family:NHaasGroteskDSPro-65Md;src:url("../fonts/2A76C9_0_0.woff") format('woff')}
